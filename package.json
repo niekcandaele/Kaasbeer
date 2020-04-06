@@ -1,0 +1,29 @@
+{
+  "name": "kaasbeer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.1.0",
+    "blockhash-core": "^0.1.0",
+    "canvas": "^2.6.1",
+    "discord.js": "^12.1.1",
+    "discord.js-commando": "https://github.com/discordjs/Commando.git",
+    "dotenv": "^8.2.0",
+    "get-audio-duration": "^1.0.0",
+    "hamming-distance": "^1.0.0",
+    "png-js": "^1.0.0",
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.8",
+    "sharp": "^0.25.2",
+    "lame": "suldashi/node-lame"
+  }
+}
